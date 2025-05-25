@@ -1,0 +1,5 @@
+# obsidian
+.obsidian/
+
+#mac metadata
+.DS_Store
